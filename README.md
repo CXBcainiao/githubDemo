@@ -19,3 +19,6 @@ git merge --allow-unrelated-histories
 
 # 发送给远程
 git pull
+
+# 给本地建立新的分支dev
+git checkout -b dev
